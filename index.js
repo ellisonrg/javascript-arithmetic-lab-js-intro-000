@@ -1,4 +1,4 @@
-function add(){
+function add(a){
   a = 1 
   b = 80 
   return a + b
