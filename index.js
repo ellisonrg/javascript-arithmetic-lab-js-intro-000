@@ -1,5 +1,7 @@
 function add(){
-  
+  a = 1 
+  b = 80 
+  return a + b
 }
 
 function subtract(){
