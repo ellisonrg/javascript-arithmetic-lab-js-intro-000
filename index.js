@@ -1,6 +1,6 @@
 function add(a,b){
-  a = 1 
-  b = 80 
+  var a = 1
+  var b = 80 
   return a + b
 }
 
